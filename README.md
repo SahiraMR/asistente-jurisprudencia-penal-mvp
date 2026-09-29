@@ -27,7 +27,7 @@ El diseño visual, el flujo de usuario y la experiencia interactiva de la aplica
 ## 📅 3. Cronograma, Fases e Hitos del Proyecto
 El desarrollo metodológico del MVP está estructurado en cuatro semanas con sus respectivos hitos de validación técnica:
 
-![Diagrama de Fases y Hitos](./cronograma_mvp.png)
+![Diagrama de Fases y Hitos](./cronograma_mvp.jpg)
 
 * **Semana 1 (Datos):** Corpus e ingesta (Relatoría de la Corte Suprema de Justicia, procesamiento con PyMuPDF y almacenamiento en PostgreSQL). 
   * *Hito:* Texto extraído con calidad >95% OK.
